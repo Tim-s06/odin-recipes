@@ -1,0 +1,1 @@
+My first HTML website will be a simple website with a main page linking to different recipes. I will have to use links, images and simple writing to achieve this goal.
